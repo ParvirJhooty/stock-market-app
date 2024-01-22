@@ -1,0 +1,2 @@
+Developed a stock market simulation application in Java with Swing GUI, integrating Alpha Vantage API for real-time stock data. Implemented features for user login, financial transactions, stock trading, and watchlist management.
+Designed a user-friendly interface for depositing/withdrawing virtual funds, buying/selling stocks, and tracking market trends, ensuring data validation and error handling for system reliability.
